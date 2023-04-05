@@ -1,0 +1,3 @@
+#define VARIABLE 300
+#define CONSTANTE 301
+#define FUNCION 302
